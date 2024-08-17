@@ -1,9 +1,8 @@
-<link rel="stylesheet" href="/public/css/header.css" />
 
 <header>
     <div class="background">
         <div class="content">
-            <div class="logo ausgefahren"></div>
+            <img src="/favicon.png" class="logo ausgefahren" onclick="move();window.location.replace('/')"></img>
             <h1>Big time cafe</h1>
             <nav class="ausgefahren">
                 <a href="/speisekarte">Speisekarte</a>

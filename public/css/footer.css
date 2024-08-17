@@ -1,6 +1,4 @@
 .footer {
-    margin-top: 600px;
-
     background-color: var(--secondary);
     color: white;
     padding: 20px 0;
@@ -34,7 +32,6 @@
     color: white;
     text-decoration: none;
     font-size: 16px;
-    transition: color 0.3s ease;
 }
 
 .footer-links a:hover {
@@ -49,9 +46,5 @@
 .footer-socials a {
     color: white;
     font-size: 24px;
-    transition: color 0.3s ease;
 }
 
-.footer-socials a:hover {
-    color: #f39c12;
-}

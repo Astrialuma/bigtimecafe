@@ -1,11 +1,16 @@
 header{
     width: 100vw;
+    max-width: 100vw;
     position: fixed;
     z-index: 1000;
+    transition: 0.3s;
+}
+.headershadow{
+    box-shadow: 0 4px 6px -2px var(--secondary);
 }
 header .gardient{
     background: linear-gradient(to bottom, var(--secondary) 0%, rgba(0, 0, 0, 0) 100%);
-    height: 10px;
+    height: 0px;
     width: 100vw;
     position: absolute;
 }
@@ -15,15 +20,16 @@ header .background{
 }
 header .background h1{
     display: none;
-    margin: 0 ;
+    margin: 0;
 }
 header .logo{
     width: 70px;
     height: 70px;
-    margin-top: 5px;
+    margin: 8px;
     z-index: 9999;
-    border: 3px solid red;
-    transition: 1s
+    transition: 0.4s;
+    cursor: pointer
+
 }
 
 header .content{
@@ -35,14 +41,15 @@ header .content{
 }
 header nav{
     margin-left: auto;
-    transition: 1s;
+    transition: 0.4s;
     z-index: 9999;
+    margin-right: 20px;
 
-    a{
-        color: white !important;
 
-    }
 }
-.ausgefahren{
-    transform: translateY(40px);
+header nav a {
+
+    color: white !important;
+    font-size: 14px;
+    text-decoration: none;
 }
