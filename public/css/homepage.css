@@ -1,0 +1,83 @@
+section{
+    margin-bottom: 50px;
+}
+
+section .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.welcome h1{
+    font-family: Alex Brush;
+    color: white;
+    margin: 0;
+    font-size: 38px;
+}
+.welcome .text p{
+    max-width: 300px;
+    line-height: 20px;
+}
+.welcome, .crepes{
+    color: white;
+    background-color: var(--secondary);
+    min-height: 230px;
+    padding-top: 120px;
+}
+.welcome img{
+    width: 500px;
+    margin-left: -80px;
+    margin-bottom: 50px;
+    mask-image: linear-gradient(to right, transparent 5%, black 50%);
+
+}
+
+
+.crepes .content{
+    
+}
+
+.crepes{
+    height: 500px;
+    padding-top: 50px;
+}
+.crepes .content{
+    gap: 100px
+}
+.crepes img{
+    position: absolute;
+
+    width: 1000px;
+    mask-image: linear-gradient(to left, transparent 0%, black 100%);
+}
+.crepes .text{
+    margin-left: 100px;
+}
+.crepestext{
+    position: absolute;
+    font-family: Inter;
+    font-weight: 300;
+    width: 400px;
+}
+.crepestext h3{
+    margin-top: 50px;
+    color: var(--primary)
+}
+.crepestext h1{
+    font-size: 30px;
+}
+
+
+.coffee{
+    padding: 70px 0;
+}
+.coffee .text{
+    width: 350px
+}
+.coffee .content{
+    gap: 200px
+}
+.coffee img{
+    width: 350px;
+    height: 350px;
+    border: 3px solid red
+}
