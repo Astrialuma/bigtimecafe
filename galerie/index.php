@@ -1,21 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Speisekarte Big Time Café </title>
+    <title>Galerie Big Time Café</title>
 
     <?php include("../public/patterns/imports.php") ?>
 
-    <link rel="stylesheet" href="/public/css/speisekarte.css" />
+    <link rel="stylesheet" href="/public/css/galerie.css" />
 
 </head>
 <body>
     <?php include("../public/patterns/header.php") ?>
 
     <main >
-        <img src="/public/images/speisekarte1.png" alt="">
-        <img src="/public/images/speisekarte2.png" alt="">
+
+        <div class="content">
+           
+        </div>
+
     </main>
 
     <?php include("../public/patterns/footer.php") ?>
