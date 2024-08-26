@@ -8,6 +8,9 @@
     <?php include("../public/patterns/imports.php") ?>
 
     <link rel="stylesheet" href="/public/css/galerie.css" />
+    <script src="/public/js/galerie.js"></script>
+
+    
 
 </head>
 <body>
@@ -16,7 +19,25 @@
     <main >
 
         <div class="content">
-           
+
+            <div class="images">
+                <?php
+                    $directory = './images';
+                    $images = glob($directory . "/*.{jpg,jpeg,png,gif}", GLOB_BRACE);
+                    
+                    // Shuffle the array to display images in random order
+                    shuffle($images);
+                    
+                    foreach($images as $image) {
+                        echo '<a href="galerie/'.$image.'" class="image-link"><img src="galerie/'.$image.'" alt="Gallery Image"></a>';
+                    }
+                ?>
+
+            
+            
+            </div>
+
+            
         </div>
 
     </main>
