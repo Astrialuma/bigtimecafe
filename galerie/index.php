@@ -29,7 +29,7 @@
                     shuffle($images);
                     
                     foreach($images as $image) {
-                        echo '<a href="galerie/'.$image.'" class="image-link"><img src="galerie/'.$image.'" alt="Gallery Image"></a>';
+                        echo '<a href="/galerie/'.$image.'" class="image-link"><img src="/galerie/'.$image.'" alt="Gallery Image"></a>';
                     }
                 ?>
 
