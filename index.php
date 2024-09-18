@@ -60,7 +60,6 @@
                 <div class="kj">
                     <h1>Öffnungszeiten & Anfahrt</h1>
                     <p>Öffnungszeiten: Di-Sa 11:00-18:30</p>
-                    <p>Am 13.09 und 14.09 bis 21 Uhr geöffnet.</p>
                     <p>Sie finden uns direkt gegenüber der Kreuzeskirche am Weberplatz.</p>
                     <p>
                         I. Weberstraße 12 <br>
