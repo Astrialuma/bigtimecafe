@@ -16,6 +16,17 @@
     <main >
         <img src="/public/images/speisekarte1.png" alt="">
         <img src="/public/images/speisekarte2.png" alt="">
+
+        <div class="getraenkeK">
+            <img src="/public/images/getraenkekarte1.png" alt="">
+            <img src="/public/images/getraenkekarte2.png" alt="">
+        </div>
+        
+        <div class="getraenkeK">
+            <img src="/public/images/getraenkekarte3.png" alt="">
+            <img src="/public/images/getraenkekarte4.png" alt="">
+        </div>
+
     </main>
 
     <?php include("../public/patterns/footer.php") ?>

@@ -59,7 +59,7 @@
             <div class="content">
                 <div class="kj">
                     <h1>Öffnungszeiten & Anfahrt</h1>
-                    <p>Öffnungszeiten: Di-Sa 12:00-18:30</p>
+                    <p>Öffnungszeiten: Di-Sa 12:00-18:30</p>    
                     <p>Sie finden uns direkt gegenüber der Kreuzeskirche am Weberplatz.</p>
                     <p>
                         I. Weberstraße 12 <br>

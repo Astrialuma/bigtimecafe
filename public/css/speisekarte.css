@@ -16,3 +16,12 @@ main{
     align-items: center;
     gap: 50px
 }
+
+.getraenkeK{
+    display: flex;
+    width: 800px;
+    gap: 10px
+}
+.getraenkeK img{
+    width: calc(50% - 10px/2);
+}
