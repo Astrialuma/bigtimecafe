@@ -16,6 +16,60 @@
     <?php include("./public/patterns/header.php") ?>
 
     <main>
+        
+    
+        <section class="main_news">
+            <div class="content">
+                <div>
+                    <h1>Wichtige Info!</h1>
+
+                    <p>
+
+                            Hallo liebe Gäste,
+                            <br><br>
+
+                            seit zwei Monaten hat das Café Big Time geöffnet, und wir freuen uns sehr, immer mehr Fans zu gewinnen. Das bestätigt uns, dass wir auf dem richtigen Weg sind.
+                            <br><br>
+
+                            Leider müssen wir euch mitteilen, dass wir aufgrund von Betriebsferien schließen werden.
+                            <br><br>
+
+                            Vom 8. Oktober bis zum 29. Oktober bleibt das Café geschlossen. 
+                            <br><br>
+
+                            Am 16. Oktober machen wir allerdings eine Ausnahme, denn Fenija, die Zöliakie hat, möchte ihren Geburtstag bei uns feiern und nimmt dafür eine lange Reise auf sich. Wir feiern natürlich mit! Wenn ihr Lust habt, seid ihr herzlich eingeladen, an diesem Tag vorbeizuschauen.
+                            <br><br>
+
+                            Ab dem 29. Oktober sind wir wieder wie gewohnt für euch da und freuen uns sehr, euch begrüßen zu dürfen!
+                            <br><br>
+
+                            Während unserer Reise durch Frankreich werden wir versuchen, uns von unseren Kollegen inspirieren zu lassen, um neue Ideen für unsere Crêpes zu sammeln. Freut euch schon auf die französischen Wochen im Big Time Café!
+                            <br><br>
+
+                            Vielen Dank für eure großartigen Rückmeldungen - sie bedeuten uns viel und helfen uns, uns stetig zu verbessern. Wir freuen uns auf ein baldiges Wiedersehen im Big Time Café!
+                            <br><br>
+
+                            Herzliche Grüße,<br>
+                            Euer Team vom Big Time Café
+                            <br><br>
+
+
+                            Ab dem 29.10 unsere Öffnungszeiten:
+                            <br><br>
+
+                            Dienstag bis Samstag <br>
+                            12:00 - 18:30
+                    </p>
+                    
+                </div>
+                <div>
+                    <img src="/public/images/wichtig.jpg" alt="">
+
+                </div>
+            </div>
+        </section>
+
+
         <section class="welcome">
             <div class="content">
                 <div class="text">

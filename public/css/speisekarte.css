@@ -20,6 +20,7 @@ main{
 .getraenkeK{
     display: flex;
     width: 800px;
+    max-width: 100vw;
     gap: 10px
 }
 .getraenkeK img{
