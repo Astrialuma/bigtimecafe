@@ -17,7 +17,7 @@
 
     <main>
         
-    
+    <!--
         <section class="main_news">
             <div class="content">
                 <div>
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </section>
-
+-->
 
         <section class="welcome">
             <div class="content">
